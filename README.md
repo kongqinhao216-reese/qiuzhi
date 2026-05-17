@@ -12,3 +12,4 @@ This is my first GitHub practice repository.
 
 - Created my first local Git repository
 - Pushed my first commit to GitHub
+- Created a practice branch
